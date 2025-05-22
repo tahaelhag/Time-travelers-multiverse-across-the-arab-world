@@ -8,5 +8,5 @@
 - Taha Ayman Elhag 
 - Zeyad Ibrahim Mohamed 
 - Malak Meyad Kamel
-- Aya Mahmoud abdelmoneim fakhrZeyad Ibrahim Mohamed
+- Aya Mahmoud abdelmoneim fakhr
 - Sarah Mohamed Samir
